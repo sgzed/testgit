@@ -3,3 +3,5 @@
 测试amend
 
 测试checkout
+
+正常push
